@@ -5,7 +5,7 @@ No Root needed.
 ---
 
 <p align="center"><img width="796" height="642" alt="image" src="https://github.com/user-attachments/assets/4dd93775-570a-4bc7-92f7-15ca07ee6e14" /></p>
-
+<p align="center"><img width="798" height="640" alt="image" src="https://github.com/user-attachments/assets/9ca2250e-f56e-42ad-a934-b06b5b0d144e" /></p>
 
 ---
 
