@@ -1,23 +1,24 @@
 ## Mi Adb Kit 📱💻
-Tool to manage Android Apps, Resolution, DPI, and FPS via ADB.
-No Root needed.
-
----
-
-<p align="center"><img width="796" height="642" alt="image" src="https://github.com/user-attachments/assets/4dd93775-570a-4bc7-92f7-15ca07ee6e14" /></p>
-<p align="center"><img width="798" height="640" alt="image" src="https://github.com/user-attachments/assets/9ca2250e-f56e-42ad-a934-b06b5b0d144e" /></p>
+A lightweight ADB tool for managing Android packages, uninstall and reinstall system/user apps with ease, plus display resolution and DPI control.
 
 ---
 
 ## ✨ Features
-- Uninstall/reinstall system and user apps.
-- Set/reset resolution, DPI, and FPS to boost performance or battery life.
+
+- 📦 View all installed and uninstalled packages
+- 🗑️ Uninstall apps (including system apps with warning)
+- 🔄 Reinstall previously uninstalled apps
+- 🖥️ Change and reset display resolution & DPI
+- 🔌 Auto-detect USB and Wi-Fi ADB connection
+- 📶 Auto setup Wi-Fi ADB when USB is connected
+- 🔍 Search/filter packages in real time
 
 ---
 
 ## 🛠️ Requirements
-- Windows. if you want to run .exe
-- Python. if you want use .py instead of .exe
+
+- Windows, if you want to run .exe
+- Python, if you want to run .py instead of .exe
 - Android device connected via USB with USB Debugging enabled.
 
 ---
@@ -25,16 +26,11 @@ No Root needed.
 ## 🚀 Usage
 1. Download `Mi_Adb_Kit.exe` or `Mi_Adb_Kit.py` from [Releases](https://github.com/sickseiha/Mi_Adb_Kit/releases).
 2. Connect Android device via USB, ensure USB Debugging is enabled.
-3. Use tabs:
-   - **Apps**: Manage installed/uninstalled apps.
-   - **Display**: Set/reset Resolution, DPI, FPS.
-   - **Info**: For your android information.
 
 > **Note:**
 - Ensure USB Debugging is enabled in Developer Options.
-- Tested in Miui or Hyperos devices.
+- Tested in Miui and Hyperos devices.
 - No root needed, super safe.
-- Feel free to edit to add some features or bugs :)
 
 ---
 
