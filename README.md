@@ -3,6 +3,10 @@ A lightweight ADB tool for managing Android packages, uninstall and reinstall sy
 
 ---
 
+<p align="center"><img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/789273c5-6f68-4b93-b76a-89a8f2583cd2" /></p>
+
+---
+
 ## ✨ Features
 
 - 📦 View all installed and uninstalled packages
