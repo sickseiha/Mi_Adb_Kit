@@ -1,4 +1,4 @@
-## Mi Adb Kit 📱💻
+# Mi Adb Kit 📱💻
 A lightweight ADB tool for managing Android packages, uninstall and reinstall system/user apps with ease, plus display resolution and DPI control.
 
 ---
